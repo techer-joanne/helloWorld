@@ -13,21 +13,6 @@ Compétences 🛠️ : une liste des technologies, outils et langages de program
 
 Contact 📬 : les informations pour me contacter, ainsi que des liens vers mes réseaux sociaux professionnels.
 
-Comment Naviguer dans le Portfolio ? 🧭
-
-Clonez ce dépôt en utilisant la commande suivante :
-
-git clone https://github.com/professeur-joanne/portfolio.git
-
-Naviguez dans le répertoire cloné :
-
-cd portfolio
-
-Ouvrez le fichier index.html dans votre navigateur pour explorer le portfolio :
-
-open index.html
-
-Projets Présentés 📈
 
 Voici une sélection de projets inclus dans ce portfolio :
 
